@@ -12,7 +12,7 @@ import (
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
 
-	"github.com/danielgtaylor/apisprout"
+	"github.com/leonnicolas/apisprout"
 )
 
 func main() {
